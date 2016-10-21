@@ -1,10 +1,12 @@
-# Nom du projet 1
+# Inter Encyclo
 
-Proposition de valeur unique
+Notre application propose une bibliothèque interactive et sociale, sous forme de réseau social : 
+  - Chaque utilisateur a un profil où il stocke des données
+  - Il peut acceder aux profils des autres utilisateurs et faire une demande de prêt.
 
 ## Équipe
 
-* Nom Prénom
+* Lefebvre Robin / Leduc Adrien / Maammar Timothé / Obled Joël / Carlier Maxence / Hochart Guillaume / Vabois Loïck
 
 ## Resources
 
